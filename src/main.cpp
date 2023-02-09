@@ -1,5 +1,5 @@
 #include <iostream>
-#include "sqrt.h"
+#include "./lib/sqrt.h"
 
 using namespace std;
 
